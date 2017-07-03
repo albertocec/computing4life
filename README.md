@@ -19,7 +19,19 @@ Si ponemos \ delante decimos al programa que no es un código y muestra el cará
 \* y \\
 
 1. Primer elemento
-  1. Subelemento 1
-    1. Subsubelemento
-  1. Subelemento 2
+   1. Subelemento 1
+       1. Subsubelemento
+   1. Subelemento 2
 1. Segunto elemento
+
+Listas sin numerar
+
+* Elemento 1
+   * Subelemento 1
+* Elemento 2
+
+Hacer líneas
+
+------------------------
+________________________
+- - - - - - - - - - - - 
